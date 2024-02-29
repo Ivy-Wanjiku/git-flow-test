@@ -1,0 +1,24 @@
+h3{
+    color: #3d2be2;
+    font-weight: bolder;
+    display: flexbox;
+    text-align: right;
+
+}
+.containeer{
+    margin: 100%;
+}
+#navbar{
+    display: flex;
+    justify-content: center;
+
+}
+.nav-bar{
+    display: flex;
+    gap: 30%;
+    justify-content: left;
+    margin-left: 800px;
+
+    
+
+}
